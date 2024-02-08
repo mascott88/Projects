@@ -1,0 +1,615 @@
+{INFO} - [com.app.bank.service.LogService] - ************************* Apr-01-21 Thursday EDT 09:41:28
+{INFO} - [com.app.bank.service.LogService] - *****R.O.C. Banking****** Apr-01-21 Thursday EDT 09:41:28
+{INFO} - [com.app.bank.service.LogService] - ************************* Apr-01-21 Thursday EDT 09:41:28
+{INFO} - [com.app.bank.service.LogService] - Menu Apr-01-21 Thursday EDT 09:41:28
+{INFO} - [com.app.bank.service.LogService] - ----- Apr-01-21 Thursday EDT 09:41:28
+{INFO} - [com.app.bank.service.LogService] - Press 1. to Log In Apr-01-21 Thursday EDT 09:41:28
+{INFO} - [com.app.bank.service.LogService] - Press 2. to Register Apr-01-21 Thursday EDT 09:41:28
+{INFO} - [com.app.bank.service.LogService] - Press 3. to Exit Apr-01-21 Thursday EDT 09:41:28
+{INFO} - [com.app.bank.service.LogService] -  Apr-01-21 Thursday EDT 09:41:28
+{INFO} - [com.app.bank.service.LogService] - *v0.0.1* Apr-01-21 Thursday EDT 09:41:28
+{INFO} - [com.app.bank.service.LogService] - Enter eMail Apr-01-21 Thursday EDT 09:41:57
+{INFO} - [com.app.bank.service.LogService] - Enter Password Apr-01-21 Thursday EDT 09:42:01
+{WARN} - [com.app.bank.service.LogService] - ERROR: relation "java_banking.person" does not exist
+  Position: 13 Apr-01-21 Thursday EDT 09:42:02
+{WARN} - [com.app.bank.service.LogService] - ERROR: relation "java_banking.person" does not exist
+  Position: 13 Apr-01-21 Thursday EDT 09:42:02
+{INFO} - [com.app.bank.service.LogService] - ************************* Apr-01-21 Thursday EDT 09:42:02
+{INFO} - [com.app.bank.service.LogService] - Menu Apr-01-21 Thursday EDT 09:42:02
+{INFO} - [com.app.bank.service.LogService] - ----- Apr-01-21 Thursday EDT 09:42:02
+{INFO} - [com.app.bank.service.LogService] - Press 1. to Log In Apr-01-21 Thursday EDT 09:42:02
+{INFO} - [com.app.bank.service.LogService] - Press 2. to Register Apr-01-21 Thursday EDT 09:42:02
+{INFO} - [com.app.bank.service.LogService] - Press 3. to Exit Apr-01-21 Thursday EDT 09:42:02
+{INFO} - [com.app.bank.service.LogService] -  Apr-01-21 Thursday EDT 09:42:02
+{INFO} - [com.app.bank.service.LogService] - *v0.0.1* Apr-01-21 Thursday EDT 09:42:02
+{INFO} - [com.app.bank.service.LogService] - GOODBYE! Apr-01-21 Thursday EDT 09:42:09
+{INFO} - [com.app.bank.service.LogService] - ************************* Apr-01-21 Thursday EDT 09:48:50
+{INFO} - [com.app.bank.service.LogService] - *****R.O.C. Banking****** Apr-01-21 Thursday EDT 09:48:50
+{INFO} - [com.app.bank.service.LogService] - ************************* Apr-01-21 Thursday EDT 09:48:50
+{INFO} - [com.app.bank.service.LogService] - Menu Apr-01-21 Thursday EDT 09:48:50
+{INFO} - [com.app.bank.service.LogService] - ----- Apr-01-21 Thursday EDT 09:48:50
+{INFO} - [com.app.bank.service.LogService] - Press 1. to Log In Apr-01-21 Thursday EDT 09:48:50
+{INFO} - [com.app.bank.service.LogService] - Press 2. to Register Apr-01-21 Thursday EDT 09:48:50
+{INFO} - [com.app.bank.service.LogService] - Press 3. to Exit Apr-01-21 Thursday EDT 09:48:50
+{INFO} - [com.app.bank.service.LogService] -  Apr-01-21 Thursday EDT 09:48:50
+{INFO} - [com.app.bank.service.LogService] - *v0.0.1* Apr-01-21 Thursday EDT 09:48:50
+{INFO} - [com.app.bank.service.LogService] - Enter eMail Apr-01-21 Thursday EDT 09:48:54
+{INFO} - [com.app.bank.service.LogService] - Enter Password Apr-01-21 Thursday EDT 09:48:57
+{INFO} - [com.app.bank.service.LogService] - Login was unsuccessful, please try again Apr-01-21 Thursday EDT 09:48:58
+{WARN} - [com.app.bank.service.LogService] -  Apr-01-21 Thursday EDT 09:48:58
+{INFO} - [com.app.bank.service.LogService] - ************************* Apr-01-21 Thursday EDT 09:48:58
+{INFO} - [com.app.bank.service.LogService] - Menu Apr-01-21 Thursday EDT 09:48:58
+{INFO} - [com.app.bank.service.LogService] - ----- Apr-01-21 Thursday EDT 09:48:58
+{INFO} - [com.app.bank.service.LogService] - Press 1. to Log In Apr-01-21 Thursday EDT 09:48:58
+{INFO} - [com.app.bank.service.LogService] - Press 2. to Register Apr-01-21 Thursday EDT 09:48:58
+{INFO} - [com.app.bank.service.LogService] - Press 3. to Exit Apr-01-21 Thursday EDT 09:48:58
+{INFO} - [com.app.bank.service.LogService] -  Apr-01-21 Thursday EDT 09:48:58
+{INFO} - [com.app.bank.service.LogService] - *v0.0.1* Apr-01-21 Thursday EDT 09:48:58
+{INFO} - [com.app.bank.service.LogService] - Enter eMail Apr-01-21 Thursday EDT 09:49:01
+{INFO} - [com.app.bank.service.LogService] - Enter Password Apr-01-21 Thursday EDT 09:49:05
+{INFO} - [com.app.bank.service.LogService] - Login was unsuccessful, please try again Apr-01-21 Thursday EDT 09:49:06
+{WARN} - [com.app.bank.service.LogService] -  Apr-01-21 Thursday EDT 09:49:06
+{INFO} - [com.app.bank.service.LogService] - ************************* Apr-01-21 Thursday EDT 09:49:06
+{INFO} - [com.app.bank.service.LogService] - Menu Apr-01-21 Thursday EDT 09:49:06
+{INFO} - [com.app.bank.service.LogService] - ----- Apr-01-21 Thursday EDT 09:49:06
+{INFO} - [com.app.bank.service.LogService] - Press 1. to Log In Apr-01-21 Thursday EDT 09:49:06
+{INFO} - [com.app.bank.service.LogService] - Press 2. to Register Apr-01-21 Thursday EDT 09:49:06
+{INFO} - [com.app.bank.service.LogService] - Press 3. to Exit Apr-01-21 Thursday EDT 09:49:06
+{INFO} - [com.app.bank.service.LogService] -  Apr-01-21 Thursday EDT 09:49:06
+{INFO} - [com.app.bank.service.LogService] - *v0.0.1* Apr-01-21 Thursday EDT 09:49:06
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 09:49:07
+{INFO} - [com.app.bank.service.LogService] - Register for a new ROC account  Apr-01-21 Thursday EDT 09:49:07
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 09:49:07
+{INFO} - [com.app.bank.service.LogService] - Enter Person name Apr-01-21 Thursday EDT 09:49:07
+{INFO} - [com.app.bank.service.LogService] - Enter eMail address Apr-01-21 Thursday EDT 09:49:10
+{INFO} - [com.app.bank.service.LogService] - Enter password Apr-01-21 Thursday EDT 09:49:12
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 09:49:13
+{INFO} - [com.app.bank.service.LogService] - Login registration was successful Apr-01-21 Thursday EDT 09:49:13
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 09:49:13
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 09:49:13
+{INFO} - [com.app.bank.service.LogService] - ROC Bank account registration Apr-01-21 Thursday EDT 09:49:13
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 09:49:13
+{INFO} - [com.app.bank.service.LogService] - Enter choice for account type Apr-01-21 Thursday EDT 09:49:13
+{INFO} - [com.app.bank.service.LogService] - 1. Apply checking account Apr-01-21 Thursday EDT 09:49:13
+{INFO} - [com.app.bank.service.LogService] - 2. Apply for savings account Apr-01-21 Thursday EDT 09:49:13
+{INFO} - [com.app.bank.service.LogService] - 3. Not now Apr-01-21 Thursday EDT 09:49:13
+{INFO} - [com.app.bank.service.LogService] - Enter starting balance Apr-01-21 Thursday EDT 09:49:22
+{WARN} - [com.app.bank.service.LogService] - ERROR: column "accounttype" of relation "accounts" does not exist
+  Position: 70 Apr-01-21 Thursday EDT 09:49:24
+{WARN} - [com.app.bank.service.LogService] -  Apr-01-21 Thursday EDT 09:49:24
+{INFO} - [com.app.bank.service.LogService] - ************************* Apr-01-21 Thursday EDT 09:49:24
+{INFO} - [com.app.bank.service.LogService] - Menu Apr-01-21 Thursday EDT 09:49:24
+{INFO} - [com.app.bank.service.LogService] - ----- Apr-01-21 Thursday EDT 09:49:24
+{INFO} - [com.app.bank.service.LogService] - Press 1. to Log In Apr-01-21 Thursday EDT 09:49:24
+{INFO} - [com.app.bank.service.LogService] - Press 2. to Register Apr-01-21 Thursday EDT 09:49:24
+{INFO} - [com.app.bank.service.LogService] - Press 3. to Exit Apr-01-21 Thursday EDT 09:49:24
+{INFO} - [com.app.bank.service.LogService] -  Apr-01-21 Thursday EDT 09:49:24
+{INFO} - [com.app.bank.service.LogService] - *v0.0.1* Apr-01-21 Thursday EDT 09:49:24
+{INFO} - [com.app.bank.service.LogService] - ************************* Apr-01-21 Thursday EDT 09:53:11
+{INFO} - [com.app.bank.service.LogService] - *****R.O.C. Banking****** Apr-01-21 Thursday EDT 09:53:11
+{INFO} - [com.app.bank.service.LogService] - ************************* Apr-01-21 Thursday EDT 09:53:11
+{INFO} - [com.app.bank.service.LogService] - Menu Apr-01-21 Thursday EDT 09:53:11
+{INFO} - [com.app.bank.service.LogService] - ----- Apr-01-21 Thursday EDT 09:53:11
+{INFO} - [com.app.bank.service.LogService] - Press 1. to Log In Apr-01-21 Thursday EDT 09:53:11
+{INFO} - [com.app.bank.service.LogService] - Press 2. to Register Apr-01-21 Thursday EDT 09:53:11
+{INFO} - [com.app.bank.service.LogService] - Press 3. to Exit Apr-01-21 Thursday EDT 09:53:11
+{INFO} - [com.app.bank.service.LogService] -  Apr-01-21 Thursday EDT 09:53:11
+{INFO} - [com.app.bank.service.LogService] - *v0.0.1* Apr-01-21 Thursday EDT 09:53:11
+{INFO} - [com.app.bank.service.LogService] - Enter eMail Apr-01-21 Thursday EDT 09:53:19
+{INFO} - [com.app.bank.service.LogService] - Enter Password Apr-01-21 Thursday EDT 09:53:21
+{INFO} - [com.app.bank.service.LogService] - ============================================================================================================================================================================= Apr-01-21 Thursday EDT 09:53:22
+{INFO} - [com.app.bank.service.LogService] - ============================================================================================================================================================================= Apr-01-21 Thursday EDT 09:53:22
+{INFO} - [com.app.bank.service.LogService] - MAIN MENU Apr-01-21 Thursday EDT 09:53:22
+{INFO} - [com.app.bank.service.LogService] - ---------- Apr-01-21 Thursday EDT 09:53:22
+{INFO} - [com.app.bank.service.LogService] - 1. View account details Apr-01-21 Thursday EDT 09:53:22
+{INFO} - [com.app.bank.service.LogService] - 2. Apply for a new account Apr-01-21 Thursday EDT 09:53:22
+{INFO} - [com.app.bank.service.LogService] - 3. Deposit Apr-01-21 Thursday EDT 09:53:22
+{INFO} - [com.app.bank.service.LogService] - 4. Withdrawal Apr-01-21 Thursday EDT 09:53:22
+{INFO} - [com.app.bank.service.LogService] - 5. Post/Receive money Apr-01-21 Thursday EDT 09:53:22
+{INFO} - [com.app.bank.service.LogService] - 6. Log out Apr-01-21 Thursday EDT 09:53:22
+{INFO} - [com.app.bank.service.LogService] - Enter Account number Apr-01-21 Thursday EDT 09:53:25
+{WARN} - [com.app.bank.service.LogService] - ERROR: column a.accounttype does not exist
+  Hint: Perhaps you meant to reference the column "a.acconttype".
+  Position: 55 Apr-01-21 Thursday EDT 09:53:28
+{WARN} - [com.app.bank.service.LogService] -  Apr-01-21 Thursday EDT 09:53:28
+{INFO} - [com.app.bank.service.LogService] - ============================================================================================================================================================================= Apr-01-21 Thursday EDT 09:53:28
+{INFO} - [com.app.bank.service.LogService] - MAIN MENU Apr-01-21 Thursday EDT 09:53:28
+{INFO} - [com.app.bank.service.LogService] - ---------- Apr-01-21 Thursday EDT 09:53:28
+{INFO} - [com.app.bank.service.LogService] - 1. View account details Apr-01-21 Thursday EDT 09:53:28
+{INFO} - [com.app.bank.service.LogService] - 2. Apply for a new account Apr-01-21 Thursday EDT 09:53:28
+{INFO} - [com.app.bank.service.LogService] - 3. Deposit Apr-01-21 Thursday EDT 09:53:28
+{INFO} - [com.app.bank.service.LogService] - 4. Withdrawal Apr-01-21 Thursday EDT 09:53:28
+{INFO} - [com.app.bank.service.LogService] - 5. Post/Receive money Apr-01-21 Thursday EDT 09:53:28
+{INFO} - [com.app.bank.service.LogService] - 6. Log out Apr-01-21 Thursday EDT 09:53:28
+{INFO} - [com.app.bank.service.LogService] - ************************* Apr-01-21 Thursday EDT 09:58:20
+{INFO} - [com.app.bank.service.LogService] - *****R.O.C. Banking****** Apr-01-21 Thursday EDT 09:58:20
+{INFO} - [com.app.bank.service.LogService] - ************************* Apr-01-21 Thursday EDT 09:58:20
+{INFO} - [com.app.bank.service.LogService] - Menu Apr-01-21 Thursday EDT 09:58:20
+{INFO} - [com.app.bank.service.LogService] - ----- Apr-01-21 Thursday EDT 09:58:20
+{INFO} - [com.app.bank.service.LogService] - Press 1. to Log In Apr-01-21 Thursday EDT 09:58:20
+{INFO} - [com.app.bank.service.LogService] - Press 2. to Register Apr-01-21 Thursday EDT 09:58:20
+{INFO} - [com.app.bank.service.LogService] - Press 3. to Exit Apr-01-21 Thursday EDT 09:58:20
+{INFO} - [com.app.bank.service.LogService] -  Apr-01-21 Thursday EDT 09:58:20
+{INFO} - [com.app.bank.service.LogService] - *v0.0.1* Apr-01-21 Thursday EDT 09:58:20
+{INFO} - [com.app.bank.service.LogService] - Enter eMail Apr-01-21 Thursday EDT 09:58:24
+{INFO} - [com.app.bank.service.LogService] - Enter Password Apr-01-21 Thursday EDT 09:58:29
+{INFO} - [com.app.bank.service.LogService] - Entered email 2 is Invalid Apr-01-21 Thursday EDT 09:58:31
+{WARN} - [com.app.bank.service.LogService] -  Apr-01-21 Thursday EDT 09:58:31
+{INFO} - [com.app.bank.service.LogService] - ************************* Apr-01-21 Thursday EDT 09:58:31
+{INFO} - [com.app.bank.service.LogService] - Menu Apr-01-21 Thursday EDT 09:58:31
+{INFO} - [com.app.bank.service.LogService] - ----- Apr-01-21 Thursday EDT 09:58:31
+{INFO} - [com.app.bank.service.LogService] - Press 1. to Log In Apr-01-21 Thursday EDT 09:58:31
+{INFO} - [com.app.bank.service.LogService] - Press 2. to Register Apr-01-21 Thursday EDT 09:58:31
+{INFO} - [com.app.bank.service.LogService] - Press 3. to Exit Apr-01-21 Thursday EDT 09:58:31
+{INFO} - [com.app.bank.service.LogService] -  Apr-01-21 Thursday EDT 09:58:31
+{INFO} - [com.app.bank.service.LogService] - *v0.0.1* Apr-01-21 Thursday EDT 09:58:31
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 09:58:32
+{INFO} - [com.app.bank.service.LogService] - Register for a new ROC account  Apr-01-21 Thursday EDT 09:58:32
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 09:58:32
+{INFO} - [com.app.bank.service.LogService] - Enter Person name Apr-01-21 Thursday EDT 09:58:32
+{INFO} - [com.app.bank.service.LogService] - Enter eMail address Apr-01-21 Thursday EDT 09:58:34
+{INFO} - [com.app.bank.service.LogService] - Enter password Apr-01-21 Thursday EDT 09:58:36
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 09:58:37
+{INFO} - [com.app.bank.service.LogService] - Login registration was successful Apr-01-21 Thursday EDT 09:58:37
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 09:58:37
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 09:58:37
+{INFO} - [com.app.bank.service.LogService] - ROC Bank account registration Apr-01-21 Thursday EDT 09:58:37
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 09:58:37
+{INFO} - [com.app.bank.service.LogService] - Enter choice for account type Apr-01-21 Thursday EDT 09:58:37
+{INFO} - [com.app.bank.service.LogService] - 1. Apply for checking account Apr-01-21 Thursday EDT 09:58:37
+{INFO} - [com.app.bank.service.LogService] - 2. Apply for savings account Apr-01-21 Thursday EDT 09:58:37
+{INFO} - [com.app.bank.service.LogService] - 3. Not now Apr-01-21 Thursday EDT 09:58:37
+{INFO} - [com.app.bank.service.LogService] - ************************* Apr-01-21 Thursday EDT 09:58:41
+{INFO} - [com.app.bank.service.LogService] - Menu Apr-01-21 Thursday EDT 09:58:41
+{INFO} - [com.app.bank.service.LogService] - ----- Apr-01-21 Thursday EDT 09:58:41
+{INFO} - [com.app.bank.service.LogService] - Press 1. to Log In Apr-01-21 Thursday EDT 09:58:41
+{INFO} - [com.app.bank.service.LogService] - Press 2. to Register Apr-01-21 Thursday EDT 09:58:41
+{INFO} - [com.app.bank.service.LogService] - Press 3. to Exit Apr-01-21 Thursday EDT 09:58:41
+{INFO} - [com.app.bank.service.LogService] -  Apr-01-21 Thursday EDT 09:58:41
+{INFO} - [com.app.bank.service.LogService] - *v0.0.1* Apr-01-21 Thursday EDT 09:58:41
+{INFO} - [com.app.bank.service.LogService] - Enter eMail Apr-01-21 Thursday EDT 09:58:42
+{INFO} - [com.app.bank.service.LogService] - Enter Password Apr-01-21 Thursday EDT 09:58:46
+{INFO} - [com.app.bank.service.LogService] - ============================================================================================================================================================================= Apr-01-21 Thursday EDT 09:58:47
+{INFO} - [com.app.bank.service.LogService] - ============================================================================================================================================================================= Apr-01-21 Thursday EDT 09:58:47
+{INFO} - [com.app.bank.service.LogService] - MAIN MENU Apr-01-21 Thursday EDT 09:58:47
+{INFO} - [com.app.bank.service.LogService] - ---------- Apr-01-21 Thursday EDT 09:58:47
+{INFO} - [com.app.bank.service.LogService] - 1. View account details Apr-01-21 Thursday EDT 09:58:47
+{INFO} - [com.app.bank.service.LogService] - 2. Apply for a new account Apr-01-21 Thursday EDT 09:58:47
+{INFO} - [com.app.bank.service.LogService] - 3. Deposit Apr-01-21 Thursday EDT 09:58:47
+{INFO} - [com.app.bank.service.LogService] - 4. Withdrawal Apr-01-21 Thursday EDT 09:58:47
+{INFO} - [com.app.bank.service.LogService] - 5. Post/Receive money Apr-01-21 Thursday EDT 09:58:47
+{INFO} - [com.app.bank.service.LogService] - 6. Log out Apr-01-21 Thursday EDT 09:58:47
+{INFO} - [com.app.bank.service.LogService] - Enter Account number Apr-01-21 Thursday EDT 09:58:51
+{INFO} - [com.app.bank.service.LogService] - Account not found Apr-01-21 Thursday EDT 09:58:54
+{WARN} - [com.app.bank.service.LogService] -  Apr-01-21 Thursday EDT 09:58:54
+{INFO} - [com.app.bank.service.LogService] - ============================================================================================================================================================================= Apr-01-21 Thursday EDT 09:58:54
+{INFO} - [com.app.bank.service.LogService] - MAIN MENU Apr-01-21 Thursday EDT 09:58:54
+{INFO} - [com.app.bank.service.LogService] - ---------- Apr-01-21 Thursday EDT 09:58:54
+{INFO} - [com.app.bank.service.LogService] - 1. View account details Apr-01-21 Thursday EDT 09:58:54
+{INFO} - [com.app.bank.service.LogService] - 2. Apply for a new account Apr-01-21 Thursday EDT 09:58:54
+{INFO} - [com.app.bank.service.LogService] - 3. Deposit Apr-01-21 Thursday EDT 09:58:54
+{INFO} - [com.app.bank.service.LogService] - 4. Withdrawal Apr-01-21 Thursday EDT 09:58:54
+{INFO} - [com.app.bank.service.LogService] - 5. Post/Receive money Apr-01-21 Thursday EDT 09:58:54
+{INFO} - [com.app.bank.service.LogService] - 6. Log out Apr-01-21 Thursday EDT 09:58:54
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 09:59:01
+{INFO} - [com.app.bank.service.LogService] - ROC Bank account registration Apr-01-21 Thursday EDT 09:59:01
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 09:59:01
+{INFO} - [com.app.bank.service.LogService] - Enter choice for account type Apr-01-21 Thursday EDT 09:59:01
+{INFO} - [com.app.bank.service.LogService] - 1. Apply for checking account Apr-01-21 Thursday EDT 09:59:01
+{INFO} - [com.app.bank.service.LogService] - 2. Apply for savings account Apr-01-21 Thursday EDT 09:59:01
+{INFO} - [com.app.bank.service.LogService] - 3. Not now Apr-01-21 Thursday EDT 09:59:01
+{INFO} - [com.app.bank.service.LogService] - Enter starting balance Apr-01-21 Thursday EDT 09:59:05
+{WARN} - [com.app.bank.service.LogService] - ERROR: value too long for type character varying(11) Apr-01-21 Thursday EDT 09:59:14
+{WARN} - [com.app.bank.service.LogService] -  Apr-01-21 Thursday EDT 09:59:14
+{INFO} - [com.app.bank.service.LogService] - ============================================================================================================================================================================= Apr-01-21 Thursday EDT 09:59:14
+{INFO} - [com.app.bank.service.LogService] - MAIN MENU Apr-01-21 Thursday EDT 09:59:14
+{INFO} - [com.app.bank.service.LogService] - ---------- Apr-01-21 Thursday EDT 09:59:14
+{INFO} - [com.app.bank.service.LogService] - 1. View account details Apr-01-21 Thursday EDT 09:59:14
+{INFO} - [com.app.bank.service.LogService] - 2. Apply for a new account Apr-01-21 Thursday EDT 09:59:14
+{INFO} - [com.app.bank.service.LogService] - 3. Deposit Apr-01-21 Thursday EDT 09:59:14
+{INFO} - [com.app.bank.service.LogService] - 4. Withdrawal Apr-01-21 Thursday EDT 09:59:14
+{INFO} - [com.app.bank.service.LogService] - 5. Post/Receive money Apr-01-21 Thursday EDT 09:59:14
+{INFO} - [com.app.bank.service.LogService] - 6. Log out Apr-01-21 Thursday EDT 09:59:14
+{INFO} - [com.app.bank.service.LogService] - ************************* Apr-01-21 Thursday EDT 10:03:49
+{INFO} - [com.app.bank.service.LogService] - *****R.O.C. Banking****** Apr-01-21 Thursday EDT 10:03:49
+{INFO} - [com.app.bank.service.LogService] - ************************* Apr-01-21 Thursday EDT 10:03:49
+{INFO} - [com.app.bank.service.LogService] - Menu Apr-01-21 Thursday EDT 10:03:49
+{INFO} - [com.app.bank.service.LogService] - ----- Apr-01-21 Thursday EDT 10:03:49
+{INFO} - [com.app.bank.service.LogService] - Press 1. to Log In Apr-01-21 Thursday EDT 10:03:49
+{INFO} - [com.app.bank.service.LogService] - Press 2. to Register Apr-01-21 Thursday EDT 10:03:49
+{INFO} - [com.app.bank.service.LogService] - Press 3. to Exit Apr-01-21 Thursday EDT 10:03:49
+{INFO} - [com.app.bank.service.LogService] -  Apr-01-21 Thursday EDT 10:03:49
+{INFO} - [com.app.bank.service.LogService] - *v0.0.1* Apr-01-21 Thursday EDT 10:03:49
+{INFO} - [com.app.bank.service.LogService] - Enter eMail Apr-01-21 Thursday EDT 10:03:51
+{INFO} - [com.app.bank.service.LogService] - Enter Password Apr-01-21 Thursday EDT 10:03:54
+{INFO} - [com.app.bank.service.LogService] - Entered email test is Invalid Apr-01-21 Thursday EDT 10:03:54
+{WARN} - [com.app.bank.service.LogService] -  Apr-01-21 Thursday EDT 10:03:54
+{INFO} - [com.app.bank.service.LogService] - ************************* Apr-01-21 Thursday EDT 10:03:54
+{INFO} - [com.app.bank.service.LogService] - Menu Apr-01-21 Thursday EDT 10:03:54
+{INFO} - [com.app.bank.service.LogService] - ----- Apr-01-21 Thursday EDT 10:03:54
+{INFO} - [com.app.bank.service.LogService] - Press 1. to Log In Apr-01-21 Thursday EDT 10:03:54
+{INFO} - [com.app.bank.service.LogService] - Press 2. to Register Apr-01-21 Thursday EDT 10:03:54
+{INFO} - [com.app.bank.service.LogService] - Press 3. to Exit Apr-01-21 Thursday EDT 10:03:54
+{INFO} - [com.app.bank.service.LogService] -  Apr-01-21 Thursday EDT 10:03:54
+{INFO} - [com.app.bank.service.LogService] - *v0.0.1* Apr-01-21 Thursday EDT 10:03:54
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 10:03:54
+{INFO} - [com.app.bank.service.LogService] - Register for a new ROC account  Apr-01-21 Thursday EDT 10:03:54
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 10:03:54
+{INFO} - [com.app.bank.service.LogService] - Enter Person name Apr-01-21 Thursday EDT 10:03:54
+{INFO} - [com.app.bank.service.LogService] - Enter eMail address Apr-01-21 Thursday EDT 10:03:57
+{INFO} - [com.app.bank.service.LogService] - Enter password Apr-01-21 Thursday EDT 10:04:02
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 10:04:05
+{INFO} - [com.app.bank.service.LogService] - Login registration was successful Apr-01-21 Thursday EDT 10:04:05
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 10:04:05
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 10:04:05
+{INFO} - [com.app.bank.service.LogService] - ROC Bank account registration Apr-01-21 Thursday EDT 10:04:05
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 10:04:05
+{INFO} - [com.app.bank.service.LogService] - Enter choice for account type Apr-01-21 Thursday EDT 10:04:05
+{INFO} - [com.app.bank.service.LogService] - 1. Apply for checking account Apr-01-21 Thursday EDT 10:04:05
+{INFO} - [com.app.bank.service.LogService] - 2. Apply for savings account Apr-01-21 Thursday EDT 10:04:05
+{INFO} - [com.app.bank.service.LogService] - 3. Not now Apr-01-21 Thursday EDT 10:04:05
+{INFO} - [com.app.bank.service.LogService] - Enter starting balance Apr-01-21 Thursday EDT 10:04:09
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 10:04:12
+{INFO} - [com.app.bank.service.LogService] - Account registration successful, Welcome to ROC Banking. Apr-01-21 Thursday EDT 10:04:12
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 10:04:12
+{INFO} - [com.app.bank.service.LogService] - New checking account application received. Listing your pending accounts below... Apr-01-21 Thursday EDT 10:04:12
+{INFO} - [com.app.bank.service.LogService] - Account number: 1, opening date: 2021-04-01 10:04:09, balance: $1800.00, status: pending
+ Apr-01-21 Thursday EDT 10:04:12
+{INFO} - [com.app.bank.service.LogService] - ************************* Apr-01-21 Thursday EDT 10:04:12
+{INFO} - [com.app.bank.service.LogService] - Menu Apr-01-21 Thursday EDT 10:04:12
+{INFO} - [com.app.bank.service.LogService] - ----- Apr-01-21 Thursday EDT 10:04:12
+{INFO} - [com.app.bank.service.LogService] - Press 1. to Log In Apr-01-21 Thursday EDT 10:04:12
+{INFO} - [com.app.bank.service.LogService] - Press 2. to Register Apr-01-21 Thursday EDT 10:04:12
+{INFO} - [com.app.bank.service.LogService] - Press 3. to Exit Apr-01-21 Thursday EDT 10:04:12
+{INFO} - [com.app.bank.service.LogService] -  Apr-01-21 Thursday EDT 10:04:12
+{INFO} - [com.app.bank.service.LogService] - *v0.0.1* Apr-01-21 Thursday EDT 10:04:12
+{INFO} - [com.app.bank.service.LogService] - Enter eMail Apr-01-21 Thursday EDT 10:06:11
+{INFO} - [com.app.bank.service.LogService] - Enter Password Apr-01-21 Thursday EDT 10:06:15
+{INFO} - [com.app.bank.service.LogService] - ============================================================================================================================================================================= Apr-01-21 Thursday EDT 10:06:16
+{INFO} - [com.app.bank.service.LogService] - ============================================================================================================================================================================= Apr-01-21 Thursday EDT 10:06:16
+{INFO} - [com.app.bank.service.LogService] - MAIN MENU Apr-01-21 Thursday EDT 10:06:16
+{INFO} - [com.app.bank.service.LogService] - ---------- Apr-01-21 Thursday EDT 10:06:16
+{INFO} - [com.app.bank.service.LogService] - 1. View account details Apr-01-21 Thursday EDT 10:06:16
+{INFO} - [com.app.bank.service.LogService] - 2. Apply for a new account Apr-01-21 Thursday EDT 10:06:16
+{INFO} - [com.app.bank.service.LogService] - 3. Deposit Apr-01-21 Thursday EDT 10:06:16
+{INFO} - [com.app.bank.service.LogService] - 4. Withdrawal Apr-01-21 Thursday EDT 10:06:16
+{INFO} - [com.app.bank.service.LogService] - 5. Post/Receive money Apr-01-21 Thursday EDT 10:06:16
+{INFO} - [com.app.bank.service.LogService] - 6. Log out Apr-01-21 Thursday EDT 10:06:16
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 10:06:21
+{INFO} - [com.app.bank.service.LogService] - ROC Bank account registration Apr-01-21 Thursday EDT 10:06:21
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 10:06:21
+{INFO} - [com.app.bank.service.LogService] - Enter choice for account type Apr-01-21 Thursday EDT 10:06:21
+{INFO} - [com.app.bank.service.LogService] - 1. Apply for checking account Apr-01-21 Thursday EDT 10:06:21
+{INFO} - [com.app.bank.service.LogService] - 2. Apply for savings account Apr-01-21 Thursday EDT 10:06:21
+{INFO} - [com.app.bank.service.LogService] - 3. Not now Apr-01-21 Thursday EDT 10:06:21
+{INFO} - [com.app.bank.service.LogService] - Enter starting balance Apr-01-21 Thursday EDT 10:06:25
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 10:06:34
+{INFO} - [com.app.bank.service.LogService] - Account registration successful, Welcome to ROC Banking. Apr-01-21 Thursday EDT 10:06:34
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 10:06:34
+{INFO} - [com.app.bank.service.LogService] - New savings account application received. Listing your pending accounts below... Apr-01-21 Thursday EDT 10:06:34
+{INFO} - [com.app.bank.service.LogService] - Account number: 1, opening date: 2021-04-01 10:04:09, balance: $1800.00, status: pending
+ Apr-01-21 Thursday EDT 10:06:34
+{INFO} - [com.app.bank.service.LogService] - Account number: 1234567890, opening date: 2021-04-01 10:06:25, balance: $1900.00, status: pending
+ Apr-01-21 Thursday EDT 10:06:34
+{INFO} - [com.app.bank.service.LogService] - ============================================================================================================================================================================= Apr-01-21 Thursday EDT 10:06:34
+{INFO} - [com.app.bank.service.LogService] - MAIN MENU Apr-01-21 Thursday EDT 10:06:34
+{INFO} - [com.app.bank.service.LogService] - ---------- Apr-01-21 Thursday EDT 10:06:34
+{INFO} - [com.app.bank.service.LogService] - 1. View account details Apr-01-21 Thursday EDT 10:06:34
+{INFO} - [com.app.bank.service.LogService] - 2. Apply for a new account Apr-01-21 Thursday EDT 10:06:34
+{INFO} - [com.app.bank.service.LogService] - 3. Deposit Apr-01-21 Thursday EDT 10:06:34
+{INFO} - [com.app.bank.service.LogService] - 4. Withdrawal Apr-01-21 Thursday EDT 10:06:34
+{INFO} - [com.app.bank.service.LogService] - 5. Post/Receive money Apr-01-21 Thursday EDT 10:06:34
+{INFO} - [com.app.bank.service.LogService] - 6. Log out Apr-01-21 Thursday EDT 10:06:34
+{INFO} - [com.app.bank.service.LogService] - Enter Account number Apr-01-21 Thursday EDT 10:06:48
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 10:06:48
+{INFO} - [com.app.bank.service.LogService] - ROC Bank account registration Apr-01-21 Thursday EDT 10:06:48
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 10:06:48
+{INFO} - [com.app.bank.service.LogService] - Enter choice for account type Apr-01-21 Thursday EDT 10:06:48
+{INFO} - [com.app.bank.service.LogService] - 1. Apply for checking account Apr-01-21 Thursday EDT 10:06:48
+{INFO} - [com.app.bank.service.LogService] - 2. Apply for savings account Apr-01-21 Thursday EDT 10:06:48
+{INFO} - [com.app.bank.service.LogService] - 3. Not now Apr-01-21 Thursday EDT 10:06:48
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 10:06:48
+{INFO} - [com.app.bank.service.LogService] - ROC Bank account registration Apr-01-21 Thursday EDT 10:06:48
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 10:06:48
+{INFO} - [com.app.bank.service.LogService] - Enter choice for account type Apr-01-21 Thursday EDT 10:06:48
+{INFO} - [com.app.bank.service.LogService] - 1. Apply for checking account Apr-01-21 Thursday EDT 10:06:48
+{INFO} - [com.app.bank.service.LogService] - 2. Apply for savings account Apr-01-21 Thursday EDT 10:06:48
+{INFO} - [com.app.bank.service.LogService] - 3. Not now Apr-01-21 Thursday EDT 10:06:48
+{INFO} - [com.app.bank.service.LogService] - ************************* Apr-01-21 Thursday EDT 10:07:59
+{INFO} - [com.app.bank.service.LogService] - *****R.O.C. Banking****** Apr-01-21 Thursday EDT 10:07:59
+{INFO} - [com.app.bank.service.LogService] - ************************* Apr-01-21 Thursday EDT 10:07:59
+{INFO} - [com.app.bank.service.LogService] - Menu Apr-01-21 Thursday EDT 10:07:59
+{INFO} - [com.app.bank.service.LogService] - ----- Apr-01-21 Thursday EDT 10:07:59
+{INFO} - [com.app.bank.service.LogService] - Press 1. to Log In Apr-01-21 Thursday EDT 10:07:59
+{INFO} - [com.app.bank.service.LogService] - Press 2. to Register Apr-01-21 Thursday EDT 10:07:59
+{INFO} - [com.app.bank.service.LogService] - Press 3. to Exit Apr-01-21 Thursday EDT 10:07:59
+{INFO} - [com.app.bank.service.LogService] -  Apr-01-21 Thursday EDT 10:07:59
+{INFO} - [com.app.bank.service.LogService] - *v0.0.1* Apr-01-21 Thursday EDT 10:07:59
+{INFO} - [com.app.bank.service.LogService] - Enter eMail Apr-01-21 Thursday EDT 10:08:01
+{INFO} - [com.app.bank.service.LogService] - Enter Password Apr-01-21 Thursday EDT 10:08:06
+{INFO} - [com.app.bank.service.LogService] - ============================================================================================================================================================================= Apr-01-21 Thursday EDT 10:08:07
+{INFO} - [com.app.bank.service.LogService] - ============================================================================================================================================================================= Apr-01-21 Thursday EDT 10:08:07
+{INFO} - [com.app.bank.service.LogService] - MAIN MENU Apr-01-21 Thursday EDT 10:08:07
+{INFO} - [com.app.bank.service.LogService] - ---------- Apr-01-21 Thursday EDT 10:08:07
+{INFO} - [com.app.bank.service.LogService] - 1. View account details Apr-01-21 Thursday EDT 10:08:07
+{INFO} - [com.app.bank.service.LogService] - 2. Apply for a new account Apr-01-21 Thursday EDT 10:08:07
+{INFO} - [com.app.bank.service.LogService] - 3. Deposit Apr-01-21 Thursday EDT 10:08:07
+{INFO} - [com.app.bank.service.LogService] - 4. Withdrawal Apr-01-21 Thursday EDT 10:08:07
+{INFO} - [com.app.bank.service.LogService] - 5. Post/Receive money Apr-01-21 Thursday EDT 10:08:07
+{INFO} - [com.app.bank.service.LogService] - 6. Log out Apr-01-21 Thursday EDT 10:08:07
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 10:08:08
+{INFO} - [com.app.bank.service.LogService] - Transfer Money Apr-01-21 Thursday EDT 10:08:08
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 10:08:08
+{INFO} - [com.app.bank.service.LogService] - 1. Post money transfer Apr-01-21 Thursday EDT 10:08:08
+{INFO} - [com.app.bank.service.LogService] - 2. Accept money transfer Apr-01-21 Thursday EDT 10:08:08
+{INFO} - [com.app.bank.service.LogService] - 3. Main Menu Apr-01-21 Thursday EDT 10:08:08
+{INFO} - [com.app.bank.service.LogService] - ============================================================================================================================================================================= Apr-01-21 Thursday EDT 10:08:09
+{INFO} - [com.app.bank.service.LogService] - MAIN MENU Apr-01-21 Thursday EDT 10:08:09
+{INFO} - [com.app.bank.service.LogService] - ---------- Apr-01-21 Thursday EDT 10:08:09
+{INFO} - [com.app.bank.service.LogService] - 1. View account details Apr-01-21 Thursday EDT 10:08:09
+{INFO} - [com.app.bank.service.LogService] - 2. Apply for a new account Apr-01-21 Thursday EDT 10:08:09
+{INFO} - [com.app.bank.service.LogService] - 3. Deposit Apr-01-21 Thursday EDT 10:08:09
+{INFO} - [com.app.bank.service.LogService] - 4. Withdrawal Apr-01-21 Thursday EDT 10:08:09
+{INFO} - [com.app.bank.service.LogService] - 5. Post/Receive money Apr-01-21 Thursday EDT 10:08:09
+{INFO} - [com.app.bank.service.LogService] - 6. Log out Apr-01-21 Thursday EDT 10:08:09
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 10:08:11
+{INFO} - [com.app.bank.service.LogService] - ROC Bank account registration Apr-01-21 Thursday EDT 10:08:11
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 10:08:11
+{INFO} - [com.app.bank.service.LogService] - Enter choice for account type Apr-01-21 Thursday EDT 10:08:11
+{INFO} - [com.app.bank.service.LogService] - 1. Apply for checking account Apr-01-21 Thursday EDT 10:08:11
+{INFO} - [com.app.bank.service.LogService] - 2. Apply for savings account Apr-01-21 Thursday EDT 10:08:11
+{INFO} - [com.app.bank.service.LogService] - 3. Not now Apr-01-21 Thursday EDT 10:08:11
+{INFO} - [com.app.bank.service.LogService] - Enter starting balance Apr-01-21 Thursday EDT 10:08:13
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 10:08:16
+{INFO} - [com.app.bank.service.LogService] - Account registration successful, Welcome to ROC Banking. Apr-01-21 Thursday EDT 10:08:16
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 10:08:16
+{INFO} - [com.app.bank.service.LogService] - New checking account application received. Listing your pending accounts below... Apr-01-21 Thursday EDT 10:08:16
+{INFO} - [com.app.bank.service.LogService] - Account number: 1, opening date: 2021-04-01 10:04:09, balance: $1800.00, status: pending
+ Apr-01-21 Thursday EDT 10:08:16
+{INFO} - [com.app.bank.service.LogService] - Account number: 1234567890, opening date: 2021-04-01 10:06:25, balance: $1900.00, status: pending
+ Apr-01-21 Thursday EDT 10:08:16
+{INFO} - [com.app.bank.service.LogService] - Account number: 1234567891, opening date: 2021-04-01 10:08:13, balance: $20.00, status: pending
+ Apr-01-21 Thursday EDT 10:08:16
+{INFO} - [com.app.bank.service.LogService] - ============================================================================================================================================================================= Apr-01-21 Thursday EDT 10:08:16
+{INFO} - [com.app.bank.service.LogService] - MAIN MENU Apr-01-21 Thursday EDT 10:08:16
+{INFO} - [com.app.bank.service.LogService] - ---------- Apr-01-21 Thursday EDT 10:08:16
+{INFO} - [com.app.bank.service.LogService] - 1. View account details Apr-01-21 Thursday EDT 10:08:16
+{INFO} - [com.app.bank.service.LogService] - 2. Apply for a new account Apr-01-21 Thursday EDT 10:08:16
+{INFO} - [com.app.bank.service.LogService] - 3. Deposit Apr-01-21 Thursday EDT 10:08:16
+{INFO} - [com.app.bank.service.LogService] - 4. Withdrawal Apr-01-21 Thursday EDT 10:08:16
+{INFO} - [com.app.bank.service.LogService] - 5. Post/Receive money Apr-01-21 Thursday EDT 10:08:16
+{INFO} - [com.app.bank.service.LogService] - 6. Log out Apr-01-21 Thursday EDT 10:08:16
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 10:08:43
+{INFO} - [com.app.bank.service.LogService] - Transfer Money Apr-01-21 Thursday EDT 10:08:43
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 10:08:43
+{INFO} - [com.app.bank.service.LogService] - 1. Post money transfer Apr-01-21 Thursday EDT 10:08:43
+{INFO} - [com.app.bank.service.LogService] - 2. Accept money transfer Apr-01-21 Thursday EDT 10:08:43
+{INFO} - [com.app.bank.service.LogService] - 3. Main Menu Apr-01-21 Thursday EDT 10:08:43
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 10:08:44
+{INFO} - [com.app.bank.service.LogService] - Post Transfer Menu Apr-01-21 Thursday EDT 10:08:44
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 10:08:44
+{INFO} - [com.app.bank.service.LogService] - 1. Send money Apr-01-21 Thursday EDT 10:08:44
+{INFO} - [com.app.bank.service.LogService] - 2. View pending post transfers Apr-01-21 Thursday EDT 10:08:44
+{INFO} - [com.app.bank.service.LogService] - 3. Go back to main menu Apr-01-21 Thursday EDT 10:08:44
+{INFO} - [com.app.bank.service.LogService] - Enter account number to send money from Apr-01-21 Thursday EDT 10:08:45
+{INFO} - [com.app.bank.service.LogService] - Enter destination account number Apr-01-21 Thursday EDT 10:08:55
+{INFO} - [com.app.bank.service.LogService] - Enter amount to be transferred Apr-01-21 Thursday EDT 10:08:56
+{INFO} - [com.app.bank.service.LogService] - Entered account number 123456790 is Invalid Apr-01-21 Thursday EDT 10:08:57
+{INFO} - [com.app.bank.service.LogService] -  Apr-01-21 Thursday EDT 10:08:57
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 10:08:57
+{INFO} - [com.app.bank.service.LogService] - Post Transfer Menu Apr-01-21 Thursday EDT 10:08:57
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 10:08:57
+{INFO} - [com.app.bank.service.LogService] - 1. Send money Apr-01-21 Thursday EDT 10:08:57
+{INFO} - [com.app.bank.service.LogService] - 2. View pending post transfers Apr-01-21 Thursday EDT 10:08:57
+{INFO} - [com.app.bank.service.LogService] - 3. Go back to main menu Apr-01-21 Thursday EDT 10:08:57
+{INFO} - [com.app.bank.service.LogService] - Enter account number to send money from Apr-01-21 Thursday EDT 10:09:03
+{INFO} - [com.app.bank.service.LogService] - Enter destination account number Apr-01-21 Thursday EDT 10:09:05
+{INFO} - [com.app.bank.service.LogService] - Enter amount to be transferred Apr-01-21 Thursday EDT 10:09:06
+{INFO} - [com.app.bank.service.LogService] - Transfer denied, account number 1234567890 has not been approved. Apr-01-21 Thursday EDT 10:09:08
+{INFO} - [com.app.bank.service.LogService] -  Apr-01-21 Thursday EDT 10:09:08
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 10:09:08
+{INFO} - [com.app.bank.service.LogService] - Post Transfer Menu Apr-01-21 Thursday EDT 10:09:08
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 10:09:08
+{INFO} - [com.app.bank.service.LogService] - 1. Send money Apr-01-21 Thursday EDT 10:09:08
+{INFO} - [com.app.bank.service.LogService] - 2. View pending post transfers Apr-01-21 Thursday EDT 10:09:08
+{INFO} - [com.app.bank.service.LogService] - 3. Go back to main menu Apr-01-21 Thursday EDT 10:09:08
+{INFO} - [com.app.bank.service.LogService] - ============================================================================================================================================================================= Apr-01-21 Thursday EDT 10:09:14
+{INFO} - [com.app.bank.service.LogService] - MAIN MENU Apr-01-21 Thursday EDT 10:09:14
+{INFO} - [com.app.bank.service.LogService] - ---------- Apr-01-21 Thursday EDT 10:09:14
+{INFO} - [com.app.bank.service.LogService] - 1. View account details Apr-01-21 Thursday EDT 10:09:14
+{INFO} - [com.app.bank.service.LogService] - 2. Apply for a new account Apr-01-21 Thursday EDT 10:09:14
+{INFO} - [com.app.bank.service.LogService] - 3. Deposit Apr-01-21 Thursday EDT 10:09:14
+{INFO} - [com.app.bank.service.LogService] - 4. Withdrawal Apr-01-21 Thursday EDT 10:09:14
+{INFO} - [com.app.bank.service.LogService] - 5. Post/Receive money Apr-01-21 Thursday EDT 10:09:14
+{INFO} - [com.app.bank.service.LogService] - 6. Log out Apr-01-21 Thursday EDT 10:09:14
+{INFO} - [com.app.bank.service.LogService] - ************************* Apr-01-21 Thursday EDT 10:09:16
+{INFO} - [com.app.bank.service.LogService] - Menu Apr-01-21 Thursday EDT 10:09:16
+{INFO} - [com.app.bank.service.LogService] - ----- Apr-01-21 Thursday EDT 10:09:16
+{INFO} - [com.app.bank.service.LogService] - Press 1. to Log In Apr-01-21 Thursday EDT 10:09:16
+{INFO} - [com.app.bank.service.LogService] - Press 2. to Register Apr-01-21 Thursday EDT 10:09:16
+{INFO} - [com.app.bank.service.LogService] - Press 3. to Exit Apr-01-21 Thursday EDT 10:09:16
+{INFO} - [com.app.bank.service.LogService] -  Apr-01-21 Thursday EDT 10:09:16
+{INFO} - [com.app.bank.service.LogService] - *v0.0.1* Apr-01-21 Thursday EDT 10:09:16
+{INFO} - [com.app.bank.service.LogService] - GOODBYE! Apr-01-21 Thursday EDT 10:09:17
+{INFO} - [com.app.bank.service.LogService] - ************************* Apr-01-21 Thursday EDT 11:20:42
+{INFO} - [com.app.bank.service.LogService] - *****R.O.C. Banking****** Apr-01-21 Thursday EDT 11:20:42
+{INFO} - [com.app.bank.service.LogService] - ************************* Apr-01-21 Thursday EDT 11:20:42
+{INFO} - [com.app.bank.service.LogService] - Menu Apr-01-21 Thursday EDT 11:20:42
+{INFO} - [com.app.bank.service.LogService] - ----- Apr-01-21 Thursday EDT 11:20:42
+{INFO} - [com.app.bank.service.LogService] - Press 1. to Log In Apr-01-21 Thursday EDT 11:20:42
+{INFO} - [com.app.bank.service.LogService] - Press 2. to Register Apr-01-21 Thursday EDT 11:20:42
+{INFO} - [com.app.bank.service.LogService] - Press 3. to Exit Apr-01-21 Thursday EDT 11:20:42
+{INFO} - [com.app.bank.service.LogService] -  Apr-01-21 Thursday EDT 11:20:42
+{INFO} - [com.app.bank.service.LogService] - *v0.0.1* Apr-01-21 Thursday EDT 11:20:42
+{INFO} - [com.app.bank.service.LogService] - ************************* Apr-01-21 Thursday EDT 11:22:38
+{INFO} - [com.app.bank.service.LogService] - *****R.O.C. Banking****** Apr-01-21 Thursday EDT 11:22:38
+{INFO} - [com.app.bank.service.LogService] - ************************* Apr-01-21 Thursday EDT 11:22:38
+{INFO} - [com.app.bank.service.LogService] - Menu Apr-01-21 Thursday EDT 11:22:38
+{INFO} - [com.app.bank.service.LogService] - ----- Apr-01-21 Thursday EDT 11:22:38
+{INFO} - [com.app.bank.service.LogService] - Press 1. to Log In Apr-01-21 Thursday EDT 11:22:38
+{INFO} - [com.app.bank.service.LogService] - Press 2. to Register Apr-01-21 Thursday EDT 11:22:38
+{INFO} - [com.app.bank.service.LogService] - Press 3. to Exit Apr-01-21 Thursday EDT 11:22:38
+{INFO} - [com.app.bank.service.LogService] -  Apr-01-21 Thursday EDT 11:22:38
+{INFO} - [com.app.bank.service.LogService] - *v0.0.1* Apr-01-21 Thursday EDT 11:22:38
+{INFO} - [com.app.bank.service.LogService] - GOODBYE! Apr-01-21 Thursday EDT 11:22:44
+{INFO} - [com.app.bank.service.LogService] - ************************* Apr-01-21 Thursday EDT 11:23:22
+{INFO} - [com.app.bank.service.LogService] - *****R.O.C. Banking****** Apr-01-21 Thursday EDT 11:23:22
+{INFO} - [com.app.bank.service.LogService] - ************************* Apr-01-21 Thursday EDT 11:23:22
+{INFO} - [com.app.bank.service.LogService] - Menu Apr-01-21 Thursday EDT 11:23:22
+{INFO} - [com.app.bank.service.LogService] - ----- Apr-01-21 Thursday EDT 11:23:22
+{INFO} - [com.app.bank.service.LogService] - Press 1. to Log In Apr-01-21 Thursday EDT 11:23:22
+{INFO} - [com.app.bank.service.LogService] - Press 2. to Register Apr-01-21 Thursday EDT 11:23:22
+{INFO} - [com.app.bank.service.LogService] - Press 3. to Exit Apr-01-21 Thursday EDT 11:23:22
+{INFO} - [com.app.bank.service.LogService] -  Apr-01-21 Thursday EDT 11:23:22
+{INFO} - [com.app.bank.service.LogService] - *v0.0.1* Apr-01-21 Thursday EDT 11:23:22
+{INFO} - [com.app.bank.service.LogService] - Enter eMail Apr-01-21 Thursday EDT 11:23:28
+{INFO} - [com.app.bank.service.LogService] - Enter Password Apr-01-21 Thursday EDT 11:23:28
+{INFO} - [com.app.bank.service.LogService] - Entered email  is Invalid Apr-01-21 Thursday EDT 11:23:28
+{WARN} - [com.app.bank.service.LogService] -  Apr-01-21 Thursday EDT 11:23:28
+{INFO} - [com.app.bank.service.LogService] - ************************* Apr-01-21 Thursday EDT 11:23:28
+{INFO} - [com.app.bank.service.LogService] - Menu Apr-01-21 Thursday EDT 11:23:28
+{INFO} - [com.app.bank.service.LogService] - ----- Apr-01-21 Thursday EDT 11:23:28
+{INFO} - [com.app.bank.service.LogService] - Press 1. to Log In Apr-01-21 Thursday EDT 11:23:28
+{INFO} - [com.app.bank.service.LogService] - Press 2. to Register Apr-01-21 Thursday EDT 11:23:28
+{INFO} - [com.app.bank.service.LogService] - Press 3. to Exit Apr-01-21 Thursday EDT 11:23:28
+{INFO} - [com.app.bank.service.LogService] -  Apr-01-21 Thursday EDT 11:23:28
+{INFO} - [com.app.bank.service.LogService] - *v0.0.1* Apr-01-21 Thursday EDT 11:23:28
+{INFO} - [com.app.bank.service.LogService] - GOODBYE! Apr-01-21 Thursday EDT 11:23:28
+{INFO} - [com.app.bank.service.LogService] - ************************* Apr-01-21 Thursday EDT 11:27:57
+{INFO} - [com.app.bank.service.LogService] - *****R.O.C. Banking****** Apr-01-21 Thursday EDT 11:27:57
+{INFO} - [com.app.bank.service.LogService] - ************************* Apr-01-21 Thursday EDT 11:27:57
+{INFO} - [com.app.bank.service.LogService] - Menu Apr-01-21 Thursday EDT 11:27:57
+{INFO} - [com.app.bank.service.LogService] - ----- Apr-01-21 Thursday EDT 11:27:57
+{INFO} - [com.app.bank.service.LogService] - Press 1. to Log In Apr-01-21 Thursday EDT 11:27:57
+{INFO} - [com.app.bank.service.LogService] - Press 2. to Register Apr-01-21 Thursday EDT 11:27:57
+{INFO} - [com.app.bank.service.LogService] - Press 3. to Exit Apr-01-21 Thursday EDT 11:27:57
+{INFO} - [com.app.bank.service.LogService] -  Apr-01-21 Thursday EDT 11:27:57
+{INFO} - [com.app.bank.service.LogService] - *v0.0.1* Apr-01-21 Thursday EDT 11:27:57
+{INFO} - [com.app.bank.service.LogService] - GOODBYE! Apr-01-21 Thursday EDT 11:28:01
+{INFO} - [com.app.bank.service.LogService] - ************************* Apr-01-21 Thursday EDT 11:41:13
+{INFO} - [com.app.bank.service.LogService] - *****R.O.C. Banking****** Apr-01-21 Thursday EDT 11:41:13
+{INFO} - [com.app.bank.service.LogService] - ************************* Apr-01-21 Thursday EDT 11:41:13
+{INFO} - [com.app.bank.service.LogService] - Menu Apr-01-21 Thursday EDT 11:41:13
+{INFO} - [com.app.bank.service.LogService] - ----- Apr-01-21 Thursday EDT 11:41:13
+{INFO} - [com.app.bank.service.LogService] - Press 1. to Log In Apr-01-21 Thursday EDT 11:41:13
+{INFO} - [com.app.bank.service.LogService] - Press 2. to Register Apr-01-21 Thursday EDT 11:41:13
+{INFO} - [com.app.bank.service.LogService] - Press 3. to Exit Apr-01-21 Thursday EDT 11:41:13
+{INFO} - [com.app.bank.service.LogService] -  Apr-01-21 Thursday EDT 11:41:13
+{INFO} - [com.app.bank.service.LogService] - *v0.0.1* Apr-01-21 Thursday EDT 11:41:13
+{INFO} - [com.app.bank.service.LogService] - Enter eMail Apr-01-21 Thursday EDT 11:41:15
+{INFO} - [com.app.bank.service.LogService] - Enter Password Apr-01-21 Thursday EDT 11:41:18
+{INFO} - [com.app.bank.service.LogService] - Entered email test is Invalid Apr-01-21 Thursday EDT 11:41:20
+{WARN} - [com.app.bank.service.LogService] -  Apr-01-21 Thursday EDT 11:41:20
+{INFO} - [com.app.bank.service.LogService] - ************************* Apr-01-21 Thursday EDT 11:41:20
+{INFO} - [com.app.bank.service.LogService] - Menu Apr-01-21 Thursday EDT 11:41:20
+{INFO} - [com.app.bank.service.LogService] - ----- Apr-01-21 Thursday EDT 11:41:20
+{INFO} - [com.app.bank.service.LogService] - Press 1. to Log In Apr-01-21 Thursday EDT 11:41:20
+{INFO} - [com.app.bank.service.LogService] - Press 2. to Register Apr-01-21 Thursday EDT 11:41:20
+{INFO} - [com.app.bank.service.LogService] - Press 3. to Exit Apr-01-21 Thursday EDT 11:41:20
+{INFO} - [com.app.bank.service.LogService] -  Apr-01-21 Thursday EDT 11:41:20
+{INFO} - [com.app.bank.service.LogService] - *v0.0.1* Apr-01-21 Thursday EDT 11:41:20
+{INFO} - [com.app.bank.service.LogService] - Enter eMail Apr-01-21 Thursday EDT 11:41:25
+{INFO} - [com.app.bank.service.LogService] - Enter Password Apr-01-21 Thursday EDT 11:41:30
+{INFO} - [com.app.bank.service.LogService] - Login was unsuccessful, please try again Apr-01-21 Thursday EDT 11:41:31
+{WARN} - [com.app.bank.service.LogService] -  Apr-01-21 Thursday EDT 11:41:31
+{INFO} - [com.app.bank.service.LogService] - ************************* Apr-01-21 Thursday EDT 11:41:31
+{INFO} - [com.app.bank.service.LogService] - Menu Apr-01-21 Thursday EDT 11:41:31
+{INFO} - [com.app.bank.service.LogService] - ----- Apr-01-21 Thursday EDT 11:41:31
+{INFO} - [com.app.bank.service.LogService] - Press 1. to Log In Apr-01-21 Thursday EDT 11:41:31
+{INFO} - [com.app.bank.service.LogService] - Press 2. to Register Apr-01-21 Thursday EDT 11:41:31
+{INFO} - [com.app.bank.service.LogService] - Press 3. to Exit Apr-01-21 Thursday EDT 11:41:31
+{INFO} - [com.app.bank.service.LogService] -  Apr-01-21 Thursday EDT 11:41:31
+{INFO} - [com.app.bank.service.LogService] - *v0.0.1* Apr-01-21 Thursday EDT 11:41:31
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 11:41:36
+{INFO} - [com.app.bank.service.LogService] - Register for a new ROC account  Apr-01-21 Thursday EDT 11:41:36
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 11:41:36
+{INFO} - [com.app.bank.service.LogService] - Enter Person name Apr-01-21 Thursday EDT 11:41:36
+{INFO} - [com.app.bank.service.LogService] - Enter eMail address Apr-01-21 Thursday EDT 11:41:41
+{INFO} - [com.app.bank.service.LogService] - Enter password Apr-01-21 Thursday EDT 11:41:44
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 11:41:45
+{INFO} - [com.app.bank.service.LogService] - Login registration was successful Apr-01-21 Thursday EDT 11:41:45
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 11:41:45
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 11:41:45
+{INFO} - [com.app.bank.service.LogService] - ROC Bank account registration Apr-01-21 Thursday EDT 11:41:45
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 11:41:45
+{INFO} - [com.app.bank.service.LogService] - Enter choice for account type Apr-01-21 Thursday EDT 11:41:45
+{INFO} - [com.app.bank.service.LogService] - 1. Apply for checking account Apr-01-21 Thursday EDT 11:41:45
+{INFO} - [com.app.bank.service.LogService] - 2. Apply for savings account Apr-01-21 Thursday EDT 11:41:45
+{INFO} - [com.app.bank.service.LogService] - 3. Not now Apr-01-21 Thursday EDT 11:41:45
+{INFO} - [com.app.bank.service.LogService] - Enter starting balance Apr-01-21 Thursday EDT 11:41:47
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 11:41:49
+{INFO} - [com.app.bank.service.LogService] - Account registration successful, Welcome to ROC Banking. Apr-01-21 Thursday EDT 11:41:49
+{INFO} - [com.app.bank.service.LogService] - ***************************************************************************************************************************************************************************** Apr-01-21 Thursday EDT 11:41:49
+{INFO} - [com.app.bank.service.LogService] - New checking account application received. Listing your pending accounts below... Apr-01-21 Thursday EDT 11:41:49
+{INFO} - [com.app.bank.service.LogService] - Account number: 1234567890, opening date: 2021-04-01 11:41:47, balance: $500000.00, status: pending
+ Apr-01-21 Thursday EDT 11:41:49
+{INFO} - [com.app.bank.service.LogService] - ************************* Apr-01-21 Thursday EDT 11:41:49
+{INFO} - [com.app.bank.service.LogService] - Menu Apr-01-21 Thursday EDT 11:41:49
+{INFO} - [com.app.bank.service.LogService] - ----- Apr-01-21 Thursday EDT 11:41:49
+{INFO} - [com.app.bank.service.LogService] - Press 1. to Log In Apr-01-21 Thursday EDT 11:41:49
+{INFO} - [com.app.bank.service.LogService] - Press 2. to Register Apr-01-21 Thursday EDT 11:41:49
+{INFO} - [com.app.bank.service.LogService] - Press 3. to Exit Apr-01-21 Thursday EDT 11:41:49
+{INFO} - [com.app.bank.service.LogService] -  Apr-01-21 Thursday EDT 11:41:49
+{INFO} - [com.app.bank.service.LogService] - *v0.0.1* Apr-01-21 Thursday EDT 11:41:49
+{INFO} - [com.app.bank.service.LogService] - Enter eMail Apr-01-21 Thursday EDT 11:41:53
+{INFO} - [com.app.bank.service.LogService] - Enter Password Apr-01-21 Thursday EDT 11:41:56
+{INFO} - [com.app.bank.service.LogService] - ============================================================================================================================================================================= Apr-01-21 Thursday EDT 11:41:57
+{INFO} - [com.app.bank.service.LogService] - :::EMPLOYEE ACCESS GRANTED::: Apr-01-21 Thursday EDT 11:41:57
+{INFO} - [com.app.bank.service.LogService] - ============================================================================================================================================================================= Apr-01-21 Thursday EDT 11:41:57
+{INFO} - [com.app.bank.service.LogService] - MAIN MENU Apr-01-21 Thursday EDT 11:41:57
+{INFO} - [com.app.bank.service.LogService] - ---------- Apr-01-21 Thursday EDT 11:41:57
+{INFO} - [com.app.bank.service.LogService] - 1. Search by account number Apr-01-21 Thursday EDT 11:41:57
+{INFO} - [com.app.bank.service.LogService] - 2. List all accounts Apr-01-21 Thursday EDT 11:41:57
+{INFO} - [com.app.bank.service.LogService] - 3. Approve/Deny pending accounts Apr-01-21 Thursday EDT 11:41:57
+{INFO} - [com.app.bank.service.LogService] - 4. View log of all transactions Apr-01-21 Thursday EDT 11:41:57
+{INFO} - [com.app.bank.service.LogService] - 5. Deposit to account Apr-01-21 Thursday EDT 11:41:57
+{INFO} - [com.app.bank.service.LogService] - 6. Withdrawal from account Apr-01-21 Thursday EDT 11:41:57
+{INFO} - [com.app.bank.service.LogService] - 7. Apply for new account Apr-01-21 Thursday EDT 11:41:57
+{INFO} - [com.app.bank.service.LogService] - 8. Log out Apr-01-21 Thursday EDT 11:41:57
+{INFO} - [com.app.bank.service.LogService] - [Account#=1234567890, type=checking, balance=$500000.00, opening date=2021-04-01 11:41:47, status=pending, name=test, eMail address=test@bank.com]
+ Apr-01-21 Thursday EDT 11:42:02
+{INFO} - [com.app.bank.service.LogService] - ============================================================================================================================================================================= Apr-01-21 Thursday EDT 11:42:02
+{INFO} - [com.app.bank.service.LogService] - MAIN MENU Apr-01-21 Thursday EDT 11:42:02
+{INFO} - [com.app.bank.service.LogService] - ---------- Apr-01-21 Thursday EDT 11:42:02
+{INFO} - [com.app.bank.service.LogService] - 1. Search by account number Apr-01-21 Thursday EDT 11:42:02
+{INFO} - [com.app.bank.service.LogService] - 2. List all accounts Apr-01-21 Thursday EDT 11:42:02
+{INFO} - [com.app.bank.service.LogService] - 3. Approve/Deny pending accounts Apr-01-21 Thursday EDT 11:42:02
+{INFO} - [com.app.bank.service.LogService] - 4. View log of all transactions Apr-01-21 Thursday EDT 11:42:02
+{INFO} - [com.app.bank.service.LogService] - 5. Deposit to account Apr-01-21 Thursday EDT 11:42:02
+{INFO} - [com.app.bank.service.LogService] - 6. Withdrawal from account Apr-01-21 Thursday EDT 11:42:02
+{INFO} - [com.app.bank.service.LogService] - 7. Apply for new account Apr-01-21 Thursday EDT 11:42:02
+{INFO} - [com.app.bank.service.LogService] - 8. Log out Apr-01-21 Thursday EDT 11:42:02
+{INFO} - [com.app.bank.service.LogService] - ============================================================================================================================================================================= Apr-01-21 Thursday EDT 11:42:07
+{INFO} - [com.app.bank.service.LogService] - Approve or Deny Apr-01-21 Thursday EDT 11:42:07
+{INFO} - [com.app.bank.service.LogService] - ============================================================================================================================================================================= Apr-01-21 Thursday EDT 11:42:07
+{INFO} - [com.app.bank.service.LogService] - 1. Approve account Apr-01-21 Thursday EDT 11:42:07
+{INFO} - [com.app.bank.service.LogService] - 2. Deny account Apr-01-21 Thursday EDT 11:42:07
+{INFO} - [com.app.bank.service.LogService] - 3. Go back Apr-01-21 Thursday EDT 11:42:07
+{INFO} - [com.app.bank.service.LogService] - Enter Account number Apr-01-21 Thursday EDT 11:42:08
+{INFO} - [com.app.bank.service.LogService] - Account number 1234567890 has been approved Apr-01-21 Thursday EDT 11:42:14
+{INFO} - [com.app.bank.service.LogService] - ============================================================================================================================================================================= Apr-01-21 Thursday EDT 11:42:14
+{INFO} - [com.app.bank.service.LogService] - Approve or Deny Apr-01-21 Thursday EDT 11:42:14
+{INFO} - [com.app.bank.service.LogService] - ============================================================================================================================================================================= Apr-01-21 Thursday EDT 11:42:14
+{INFO} - [com.app.bank.service.LogService] - 1. Approve account Apr-01-21 Thursday EDT 11:42:14
+{INFO} - [com.app.bank.service.LogService] - 2. Deny account Apr-01-21 Thursday EDT 11:42:14
+{INFO} - [com.app.bank.service.LogService] - 3. Go back Apr-01-21 Thursday EDT 11:42:14
+{INFO} - [com.app.bank.service.LogService] - ============================================================================================================================================================================= Apr-01-21 Thursday EDT 11:42:17
+{INFO} - [com.app.bank.service.LogService] - MAIN MENU Apr-01-21 Thursday EDT 11:42:17
+{INFO} - [com.app.bank.service.LogService] - ---------- Apr-01-21 Thursday EDT 11:42:17
+{INFO} - [com.app.bank.service.LogService] - 1. Search by account number Apr-01-21 Thursday EDT 11:42:17
+{INFO} - [com.app.bank.service.LogService] - 2. List all accounts Apr-01-21 Thursday EDT 11:42:17
+{INFO} - [com.app.bank.service.LogService] - 3. Approve/Deny pending accounts Apr-01-21 Thursday EDT 11:42:17
+{INFO} - [com.app.bank.service.LogService] - 4. View log of all transactions Apr-01-21 Thursday EDT 11:42:17
+{INFO} - [com.app.bank.service.LogService] - 5. Deposit to account Apr-01-21 Thursday EDT 11:42:17
+{INFO} - [com.app.bank.service.LogService] - 6. Withdrawal from account Apr-01-21 Thursday EDT 11:42:17
+{INFO} - [com.app.bank.service.LogService] - 7. Apply for new account Apr-01-21 Thursday EDT 11:42:17
+{INFO} - [com.app.bank.service.LogService] - 8. Log out Apr-01-21 Thursday EDT 11:42:17
+{INFO} - [com.app.bank.service.LogService] - ************************* Apr-01-21 Thursday EDT 11:42:19
+{INFO} - [com.app.bank.service.LogService] - Menu Apr-01-21 Thursday EDT 11:42:19
+{INFO} - [com.app.bank.service.LogService] - ----- Apr-01-21 Thursday EDT 11:42:19
+{INFO} - [com.app.bank.service.LogService] - Press 1. to Log In Apr-01-21 Thursday EDT 11:42:19
+{INFO} - [com.app.bank.service.LogService] - Press 2. to Register Apr-01-21 Thursday EDT 11:42:19
+{INFO} - [com.app.bank.service.LogService] - Press 3. to Exit Apr-01-21 Thursday EDT 11:42:19
+{INFO} - [com.app.bank.service.LogService] -  Apr-01-21 Thursday EDT 11:42:19
+{INFO} - [com.app.bank.service.LogService] - *v0.0.1* Apr-01-21 Thursday EDT 11:42:19
+{INFO} - [com.app.bank.service.LogService] - GOODBYE! Apr-01-21 Thursday EDT 11:42:20
