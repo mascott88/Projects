@@ -1,0 +1,98 @@
+@charset "ISO-8859-1";
+html, body {	
+	scrollbar-width: none;
+	filter: sepia(35%);	 
+}
+
+.main-content {
+	overflow: hidden;
+    position: relative;    	
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column;
+    height: 125vh;    
+    background-image: url("/img/silent.png");
+    background-position: center;
+	background-size: cover;   
+	font-family: 'Nickelodeon NF', 'Bellefair', serif;
+	background-repeat: repeat repeat;       
+  	-webkit-animation: vignette-anim 4s infinite;
+  	-moz-animation:    vignette-anim 4s infinite;
+  	-o-animation:      vignette-anim 4s infinite;
+  	animation:         vignette-anim 4s infinite;  	 
+}
+
+.noise {
+    z-index: 100;
+    position: absolute;
+    top: 0;
+    left: 0;    
+    width: 100%;
+    height: 100%;    
+    pointer-events: none;
+    opacity: .15;
+}
+
+.line {
+  position: absolute;
+  height: 100%; width: 1px;
+  opacity: 0.1;
+  background-color: #fff;
+}
+
+@font-face {
+	font-family: "Nickelodeon NF";
+	src: url("/css/fonts/NickelodeonNF.tff");
+	src: url("/css/fonts/NickelodeonNF.otf") format("opentype");
+}
+
+.titleCont {
+	position: relative;
+}
+
+.main-title {
+	font-size: 50px;
+    font-size: 7vw;
+    padding: .3em 1em .25em;    
+    color: Gray;
+    position: relative;
+    text-align: center;
+}
+
+.overTitle {
+    position: absolute;
+    font-size: 50px;
+    font-size: 7vw;
+    top: 0;
+    left:0;
+}
+
+.dot {
+  width: 3px;
+  height: 2px;
+  background-color: GhostWhite;
+  position: absolute;
+  opacity: 0.4;
+}
+
+@-webkit-keyframes vignette-anim {
+  0%   , 100%{ opacity: 1; }
+  50% { opacity: 0.9; }
+}
+@-moz-keyframes vignette-anim {
+  0%   , 100%{ opacity: 1; }
+  50% { opacity: 0.9; }
+}
+@-o-keyframes vignette-anim {
+  0%   , 100%{ opacity: 1; }
+  50% { opacity: 0.9; }
+}
+@keyframes vignette-anim {
+  0%   , 100%{ opacity: 1; }
+  50% { opacity: 0.9; }
+}
+
+::-webkit-scrollbar {
+    display: none;
+}

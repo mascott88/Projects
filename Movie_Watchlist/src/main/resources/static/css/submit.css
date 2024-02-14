@@ -1,0 +1,182 @@
+@charset "ISO-8859-1";
+html, body {
+    scrollbar-width: none;
+    filter: sepia(35%);
+}
+
+.main-content {
+    background-image: url("/img/silent.png");
+    background-size: cover;
+	background-repeat: repeat;
+	overflow: auto;
+	height: 128vh;
+	width: 100%;
+	background-position: center center;
+    font-family: 'Nickelodeon NF', 'Bellefair', serif;          
+  	-webkit-animation: vignette-anim 4s infinite;
+  	-moz-animation:    vignette-anim 4s infinite;
+  	-o-animation:      vignette-anim 4s infinite;
+  	animation:         vignette-anim 4s infinite;
+}
+
+@font-face {
+	font-family: "Nickelodeon NF";
+	src: url("/css/fonts/NickelodeonNF.tff");
+	src: url("/css/fonts/NickelodeonNF.otf") format("opentype");
+}
+
+.navbar-nav > .active > a {
+   font-size: 30px;
+   content-align: center;
+}
+
+.navbar.transparent.navbar-inverse .collapse.navbar-collapse {
+	opacity: 0;
+	justify-content: center;
+}
+
+.navbar {
+	justify-content: center;
+	text-align: center;
+}
+
+a {	
+	font-size: 20px;
+	color: white;
+	text-shadow: 2px 2px black;
+}
+
+a:link, a:hover {
+	color: #6c757d;
+}
+
+.btn-info {
+	color: #007bff;
+}
+
+.btn-info:hover {
+	color: white;
+}
+
+.btn-info {
+	color: #007bff;
+}
+
+.btn:hover, .btn:hover:before, .btn:hover:after {
+	background-color: #007bff;
+	border-color: white;
+}
+
+.button {
+  display: inline-block;
+  padding: 15px 50px;
+  text-align: center;
+  cursor: pointer;  
+}
+
+button#submit {
+    padding: 1% 15%;   
+}
+
+.btn {
+	color: white;
+	background-color: unset;
+	border-color: unset;
+	font-size: 20px;	
+}
+
+.btn:not(:disabled):not(.disabled) {    
+    margin: 0 3%;
+    text-shadow: 2px 2px black;
+}
+
+*, ::after, ::before {	
+    justify-content: center;
+}
+
+.col-sm-4 {
+	justify-content: center;
+	min-width: 53.333%;
+	max-width: 53.333%;
+	font-family: 'Bellefair', serif;
+	font-size: 17px;
+	text-shadow: 2px 2px black;
+}
+
+.col-sm-10 {
+	display: flex;
+	justify-content: center;
+}
+
+.form-group {
+    font-size: 25px;
+}
+
+form, ::after, ::before {
+	margin-top: 0rem;
+}
+
+span {
+	white-space: pre;
+}
+
+#heading {
+	font-size: 40px;
+	text-align: center;
+	padding-top: 1rem;
+}
+
+.error {
+	color: white;
+	font-family: 'Bellefair', serif;
+	font-size: 20px;
+	text-shadow: 2px 2px black;
+}
+
+h2  {
+    font-size: 20px;
+}
+
+.container {
+	color: white;
+	width: 100vw;
+	padding-right: 0;
+    padding-left: 0;  
+    max-width: 600px;
+}
+
+.line {
+  	position: absolute;
+  	height: 100%; width: 1.1px;
+  	opacity: 0.1;
+  	background-color: #fff;
+}
+	
+.dot {
+  	width: 3px;
+  	height: 2px;
+  	background-color: GhostWhite;
+  	position: absolute;
+  	opacity: 0.8;
+}
+
+@-webkit-keyframes vignette-anim {
+  0%   , 100%{ opacity: 1; }
+  50% { opacity: 0.9; }
+}
+@-moz-keyframes vignette-anim {
+  0%   , 100%{ opacity: 1; }
+  50% { opacity: 0.9; }
+}
+@-o-keyframes vignette-anim {
+  0%   , 100%{ opacity: 1; }
+  50% { opacity: 0.9; }
+}
+@keyframes vignette-anim {
+  0%   , 100%{ opacity: 1; }
+  50% { opacity: 0.9; }
+}
+
+::-webkit-scrollbar {
+    display: none;
+}

@@ -1,0 +1,27 @@
+<!doctype html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width = device-width, initial-scale = 1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+ <link th:href="@{/css/error.css}" rel="stylesheet" />
+</head>
+<body class="frame" id="frame" onclick="location.href='/watchlist'">
+	<main role="main" class="main-content" id="main-content">		
+			<nav class="navbar navbar-expand-sm">
+				<div class="collapse navbar-collapse" id="navbarSupportedContent">
+					<ul class="navbar-nav mr-auto">
+						<li class="nav-item active"><a class="nav-link" href="/">Home</a></li>
+						<li class="nav-item"><a class="nav-link" href="/watchlist">Watchlist</a></li>
+						<li class="nav-item"><a class="nav-link"
+							href="/watchlistItemForm">Submit</a></li>						
+					</ul>
+				</div>
+			</nav>
+		<h1>Error!</h1><br>
+		<h1 class="main-title" id="main-title">
+			Please contact our support
+		</h1>
+	</main>
+</body>
+</html>

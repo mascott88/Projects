@@ -1,0 +1,101 @@
+<!doctype html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width = device-width, initial-scale = 1">
+<title>Movie Watchlist</title>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+<link th:href="@{/css/submit.css}" rel="stylesheet" />
+</head>
+<body class="titleCont">
+	<main role="main" class="main-content" id="main-content">
+		<div class="container">
+			<div><nav class="navbar navbar-expand-sm">
+				<div id="navbarSupportedContent">
+					<ul class="navbar-nav">
+						<li class="nav-item"><a class="nav-link" href="/" tabindex="1">Home</a></li>
+						<li class="nav-item"><a class="nav-link" href="/watchlist" tabindex="2">Watchlist</a></li>
+						<li class="nav-item active"><a class="nav-link" href="/watchlistItemForm" tabindex="3">Submit</a></li>	
+					</ul>
+				</div>
+			</nav></div>
+			<form action="#" method="post" th:action="@{/watchlistItemForm}" th:object="${watchlistItem}" onsubmit='disableButton()' id="formgroup">
+				<h2 class="mt-4" id="heading">Submit a Movie</h2>
+				<hr />
+				<div class="form-group row">
+					<div class="col-sm-8">
+						<span class="error" th:errors="*{global}"></span>
+						<span class="error" th:errors="*{title}"> </span>
+					</div>
+				</div>
+				<div class="container">
+					<div class="form-group row ">
+						<label for="title" class="col-sm-2 col-form-label mr-0">Title</label>
+						<div class="col-sm-4">
+							<input th:field="*{title}" type="text" class="form-control" placeholder="Title" id="title" tabindex="4" autofocus>
+						</div>
+					</div>
+					<div class="form-group row ">
+						<label for="rating" class="col-sm-2 col-form-label mr-0">Rating</label>
+						<div class="col-sm-4">
+							<input th:field="*{rating}" type="text" class="form-control" placeholder="1-10" tabindex="5">
+						</div>
+					</div>
+					<div class="form-group row ">
+						<label for="priority" class="col-sm-2 col-form-label mr-0">Priority</label>
+						<div class="col-sm-4">
+							<input th:field="*{priority}" type="text" class="form-control" placeholder="L,M, or H" tabindex="6">
+						</div>
+					</div>
+					<div class="form-group row">
+						<div class="col-sm-10" id="submitBtn">
+							<input type="hidden" th:field="*{id}"/>														
+							<button type="submit" name="remove" value="remove" class="btn btn-info" onclick="disableButton(this)" id="remove" tabindex="9">Remove</button>
+							<button type="submit" name="submit" value="submit" class="btn btn-primary" id="submit" tabindex="7">Submit</button>									
+							<a href="#" class="btn btn-info" role="button" th:href="@{/watchlist}" id="cancel" onclick="disableCancel(this)" tabindex="8">Cancel</a>																												
+						</div>
+					</div>
+				</div>
+			</form>												
+		</div>
+	</main>					
+	<script>
+    function disableButton() {
+    	document.getElementById('submit').disabled = true;
+    }
+	</script>
+	<script>
+	function disableCancel(link) {
+    	link.onclick = function(event) {
+    		event.preventDefault();    		
+    }}
+	</script>
+	<script>	
+	(function() {
+		document.getElementById('title').addEventListener('keypress', function(event) {
+        	 if (event.keyCode == 13) {
+                event.preventDefault();
+                document.getElementById('submit').click();                
+    }});}());
+	</script>
+	<script>	
+	(function() {
+		document.getElementById('rating').addEventListener('keypress', function(event) {
+        	 if (event.keyCode == 13) {
+                event.preventDefault();
+                document.getElementById('submit').click();                
+    }});}());
+	</script>
+	<script>	
+	(function() {
+		document.getElementById('priority').addEventListener('keypress', function(event) {
+        	 if (event.keyCode == 13) {
+                event.preventDefault();
+                document.getElementById('submit').click();                
+    }});}());
+	</script>		
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TweenMax.min.js"></script>
+	<script src="/javascript/dots.js"></script>
+	</body>
+</html>

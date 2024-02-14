@@ -1,0 +1,22 @@
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width = device-width, initial-scale = 1">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TweenMax.min.js"></script>
+<title>Movie Watchlist</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="/css/home.css" rel="stylesheet" />
+</head>
+<body class="frame" id="frame" onclick="location.href='/watchlist'">
+	<main role="main" class="main-content" id="main-content">
+		<div class="titleCont">
+			<h1 class="main-title" id="main-title"></h1>
+		</div>
+		<canvas id="noise" class="noise"></canvas>
+	</main>
+<script src="javascript/noise.js"></script>
+<script src="javascript/titles.js"></script>
+<script src="javascript/gsap.js"></script>
+</body>
+</html>

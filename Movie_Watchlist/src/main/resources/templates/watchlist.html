@@ -1,0 +1,63 @@
+<!doctype html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width = device-width, initial-scale = 1">
+<title>Movie Watchlist</title>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+<link th:href="@{/css/watchlist.css}" rel="stylesheet" />
+</head>
+<body class="titleCont">
+	<main role="main" class="main-content" id="main-content">
+			<div><nav class="navbar navbar-expand-sm">
+				<div id="navbarSupportedContent">
+					<ul class="navbar-nav mr-auto">
+						<li class="nav-item"><a class="nav-link" href="/">Home</a></li>
+						<li class="nav-item active"><a class="nav-link" href="/watchlist">Watchlist</a></li>
+						<li class="nav-item"><a class="nav-link" href="/watchlistItemForm">Submit</a></li>
+					</ul>
+				</div>
+			</nav></div>
+			<div class="container">
+				<table class="table" id="table">
+						<tr class= "noborders">
+							<th onclick= sort(0)>Title</th>							
+							<th onclick= sort(1)>Rating</th>
+							<th onclick= sort(2)>Year</th>
+							<th onclick= sort(3)>Length(min.)</th>							
+							<th onclick= sort(4)>Priority</th>						
+						</tr>
+						<tr class="noborders" th:each="watchlistItem:${watchlistItems}">
+							<td th:text="${watchlistItem.title}" th:data-url="@{https://www.imdb.com/title/{imdbID}(imdbID=${watchlistItem.imdbID})}" th:onclick="window.location.href=this.getAttribute('data-url')" onclick=disableLink(this) id="row"></td>							
+							<td th:text="${watchlistItem.rating}" th:data-url="@{/watchlistItemForm(id=${watchlistItem.id})}" th:onclick="window.location.href=this.getAttribute('data-url')" onclick=disableLink(this) id="row"></td>
+							<td th:text="${watchlistItem.year}" th:data-url="@{/watchlistItemForm(id=${watchlistItem.id})}" th:onclick="window.location.href=this.getAttribute('data-url')" onclick=disableLink(this) id="row"></td>
+							<td th:text="${watchlistItem.length}" th:data-url="@{/watchlistItemForm(id=${watchlistItem.id})}" th:onclick="window.location.href=this.getAttribute('data-url')" onclick=disableLink(this) id="row"></td>
+							<td th:text="${watchlistItem.priority}" th:data-url="@{/watchlistItemForm(id=${watchlistItem.id})}" th:onclick="window.location.href=this.getAttribute('data-url')" onclick=disableLink(this) id="row"></td>														
+						</tr>
+				</table>
+			</div>
+			<hr/>
+			<div>
+			<div id="watchNumber"> Number of movies to watch: <span th:text="${numberOfMovies}"></span></div>
+		</div>
+		<canvas id="noise" class="noise"></canvas>
+	</main>
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TweenMax.min.js"></script>
+	<script src="/javascript/dots.js"></script>
+	<script src="/javascript/noise.js"></script>
+	<script src="/javascript/sort.js"></script>
+	<script>
+	function disableLink(link) {
+    	document.getElementById(row).disabled=true;		    	
+    }
+	</script>
+	<script>
+	function disableUpdate(link) {
+		document.getElementById(row).disabled=true;	
+    	link.onclick = function(event) {
+    		event.preventDefault();    		
+    }} 
+	</script>	
+</body>
+</html>	
